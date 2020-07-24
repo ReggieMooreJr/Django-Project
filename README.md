@@ -1,5 +1,5 @@
 # Django-Project
-This is a project that i created after taking Django Percipo class on line (7/20/20)
+This is a project that i created after taking Django Percipo class on line (7/tt20/20)
 
 The django wrapper contains 5 different static urls 
 milani
